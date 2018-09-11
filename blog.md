@@ -113,6 +113,8 @@ Malware analysis
 
 Vulnerability research
 
+* [https://medium.com/@CodeColorist](https://medium.com/@CodeColorist)
+* [https://blog.exodusintel.com/](https://blog.exodusintel.com/)
 * [http://tacxingxing.com/](http://tacxingxing.com/)
 * [https://rootkits.xyz/blog/](https://rootkits.xyz/blog/)
 * [https://xiaodaozhi.com/archives.html](https://xiaodaozhi.com/archives.html)
