@@ -26,6 +26,8 @@ Windows AD
 * [canix1/ADACLScanner - Your number one script for ACL's in Active Directory](https://github.com/canix1/ADACLScanner)
 * [cyberark/ACLight - A script for advanced discovery of Privileged Accounts - includes Shadow Admins](https://github.com/cyberark/ACLight)
 * [ANSSI-FR/AD-permissions - Active Directory permissions (ACL/ACE) auditing tools](https://github.com/ANSSI-FR/AD-permissions)
+* Group policy
+  * [gpoguy/GetVulnerableGPO - PowerShell script to find 'vulnerable' security-related GPOs that should be hardended](https://github.com/gpoguy/GetVulnerableGPO)
 
 Linux
 

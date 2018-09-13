@@ -21,6 +21,10 @@ Traffic analysis
 * [aol/moloch - Moloch is an open source, large scale, full packet capturing, indexing, and database system](https://github.com/aol/moloch)
 * [stamparm/maltrail - Malicious traffic detection system](https://github.com/stamparm/maltrail)
 
+Leakage
+
+* [FeeiCN/GSIL - GitHub Sensitive Information Leakage（GitHub敏感信息泄露监控）](https://github.com/FeeiCN/GSIL)
+
 Email
 
 * [CIRCL/IMAP-Proxy - Modular IMAP proxy (including PyCIRCLeanMail and MISP forward modules)](https://github.com/CIRCL/IMAP-Proxy)
@@ -59,6 +63,7 @@ Rootkit detection
 Windows AD
 
 * [PingCastle example report](https://www.pingcastle.com/PingCastleFiles/ad_hc_test.mysmartlogon.com.html#S-ADRegistration)
+* [phillips321/adaudit - Powershell script to do domain auditing automation](https://github.com/phillips321/adaudit)
 
 Webshell detection
 
@@ -77,14 +82,6 @@ Monitoring
   * [clong/detect-responder - Detect Responder (LLMNR, NBT-NS, MDNS poisoner) with osquery](https://github.com/clong/detect-responder)
 * [elastic/beats - Beats - Lightweight shippers for Elasticsearch & Logstash](https://github.com/elastic/beats)
 * [dgunter/evtxtoelk - A lightweight tool to load Windows Event Log evtx files into Elasticsearch](https://github.com/dgunter/evtxtoelk)
-
-Powershell
-
-* [danielbohannon/Revoke-Obfuscation - PowerShell Obfuscation Detection Framework](https://github.com/danielbohannon/Revoke-Obfuscation)
-
-Auditing
-
-* [phillips321/adaudit - Powershell script to do domain auditing automation](https://github.com/phillips321/adaudit)
 
 Log analysis / Visualization
 
