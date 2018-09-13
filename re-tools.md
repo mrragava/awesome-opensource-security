@@ -52,7 +52,6 @@ Auxiliary
 * [ida-arm-system-highlight - Decoding ARM system instructions](https://github.com/gdelugre/ida-arm-system-highlight)
 * [alexhude/FRIEND - Flexible Register/Instruction Extender aNd Documentation](https://github.com/alexhude/FRIEND)
 * [REhints/HexRaysCodeXplorer - Hex-Rays Decompiler plugin for better code navigation](https://github.com/REhints/HexRaysCodeXplorer)
-* [comsecuris/gdbida: a visual bridge between a GDB session and IDA Pro's disassembler](https://github.com/comsecuris/gdbida)
 * [darx0r/Reef - IDAPython plugin for finding Xrefs from a function](https://github.com/darx0r/Reef)
 * [ALSchwalm/dwarfexport - Export dwarf debug information from IDA Pro](https://github.com/ALSchwalm/dwarfexport)
 * [maddiestone/IDAPythonEmbeddedToolkit - IDAPython scripts for automating analysis of firmware of embedded devices](https://github.com/maddiestone/IDAPythonEmbeddedToolkit)
@@ -63,6 +62,7 @@ Auxiliary
 Synchronization
 
 * [a1ext/labeless - Labels/Comments synchronization between IDA PRO and dbg backend (OllyDbg1.10, OllyDbg 2.01, x64dbg) , Remote memory dumping tool (including x64-bit), Python scripting tool](https://github.com/a1ext/labeless)
+* [comsecuris/gdbida: a visual bridge between a GDB session and IDA Pro's disassembler](https://github.com/comsecuris/gdbida)
 
 Unpacking
 
@@ -88,6 +88,7 @@ Uncategorized
 * [danigargu/heap-viewer - An IDA Pro plugin to examine the glibc heap, focused on exploit development](https://github.com/danigargu/heap-viewer)
 * [nirizr/idasix - IDAPython compatibility library, aims to create a smooth ida development process and allow a single codebase to function with multiple IDA/IDAPython versions](https://github.com/nirizr/idasix)
 * [endgameinc/xori - an automation-ready disassembly and static analysis library that consumes shellcode or PE binaries and provides triage analysis data](https://github.com/endgameinc/xori)
+* [IDArlingTeam/IDArling - Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays](https://github.com/IDArlingTeam/IDArling/)
 
 ## Binary ninja plugins
 
